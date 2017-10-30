@@ -18,7 +18,8 @@
         </activity>
         <activity android:name=".SecondActivity" />
         <activity android:name=".CzbActivity" />
-        <activity android:name=".thirdActivity"></activity>
+        <activity android:name=".thirdActivity" />
+        <activity android:name=".Main2Activity"></activity>
     </application>
 
 </manifest>
