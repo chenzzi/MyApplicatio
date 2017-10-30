@@ -22,7 +22,9 @@ public class MainActivity extends AppCompatActivity {
         Log.d("TAG",number+"");
     }
 
-    public void myMethod3(){
-        Log.d("m","s");
+
+    public String myMethod4(){
+        return "410";
     }
+
 }
