@@ -17,4 +17,8 @@ public class MainActivity extends AppCompatActivity {
     public void myMethod(String str){
         Log.d("TAG","myTest");
     }
+
+    public void myMethod2(int number){
+        Log.d("TAG",number+"");
+    }
 }
