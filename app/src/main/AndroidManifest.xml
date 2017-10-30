@@ -16,7 +16,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+<<<<<<<<< Temporary merge branch 1
         <activity android:name=".SecondActivity"></activity>
+=========
+        <activity android:name=".CzbActivity"></activity>
+>>>>>>>>> Temporary merge branch 2
     </application>
 
 </manifest>

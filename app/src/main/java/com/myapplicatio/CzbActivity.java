@@ -11,7 +11,6 @@ public class CzbActivity extends AppCompatActivity {
         setContentView(R.layout.activity_czb);
     }
 
-    private void method1(){
 
-    }
+
 }
