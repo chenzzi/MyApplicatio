@@ -10,4 +10,9 @@ public class CzbActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_czb);
     }
+
+    private void method1(){
+
+    }
+
 }
