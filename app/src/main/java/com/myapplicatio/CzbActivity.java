@@ -11,5 +11,7 @@ public class CzbActivity extends AppCompatActivity {
         setContentView(R.layout.activity_czb);
     }
 
-
+    public String myMethod5(){
+        return "gdsdzx";
+    }
 }

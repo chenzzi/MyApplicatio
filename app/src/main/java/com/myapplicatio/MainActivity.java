@@ -25,8 +25,6 @@ public class MainActivity extends AppCompatActivity {
     public String myMethod4(){
         return "410";
     }
-    public String myMethod5(){
-        return "gdsdzx";
-    }
+
 
 }
